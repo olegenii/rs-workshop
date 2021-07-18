@@ -1,2 +1,2 @@
 this a first comment
-changes from master
+changes from master - new changes
