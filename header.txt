@@ -1,2 +1,5 @@
 this a first comment
-changes from master - new changes
+changes from master
+changes from oleg
+Text from master: new changes!!!
+
